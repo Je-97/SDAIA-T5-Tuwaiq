@@ -1,2 +1,7 @@
 # RESD 
 ## (Real-Time Accident Detection and Classification for Enhanced Analysis)
+
+_______________________________________________________________________________
+
+# Introduction
+Traffic congestion is a significant challenge for rapidly growing cities worldwide, particularly in cities like Riyadh, where the volume of vehicles often exceeds road capacity. One of the primary causes of this congestion is traffic accidents, which not only lead to delays but also create serious safety risks for drivers and pedestrians alike. These accidents can worsen traffic, leading to longer wait times for emergency services. Regarding this, our project focuses on developing an automatic accident detection system that leverages on-road surveillance camera footage to address these critical issues. By employing advanced algorithms, specifically the YOLO model, we aim to enhance the real-time detection of traffic accidents. Our dataset categorizes incidents into two classes: “accident” and “severe”, allowing for a precise understanding of the accident. The system promptly alerts the relevant authorities upon detection, facilitating immediate response measures. Through this project, we aim to improve road safety and contribute to more efficient traffic management. This aligns with Saudi Arabia’s Vision 2030 initiative, which emphasizes the development of smart cities and advanced infrastructure to enhance the quality of life for residents.
