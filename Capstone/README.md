@@ -53,12 +53,4 @@ Diversifying the dataset to enhance performance in varying traffic conditions.
 # Conclusion
 This project demonstrates significant potential for improving road safety and reducing response times for accidents. By enabling faster identification and categorization of incidents, authorities can take swift action to manage traffic and ensure safer roads.
 
-# Team Members
-Jehan Almutairi
-
-Haya Almalki
-
-Hanan Mohammed
-
-
 
